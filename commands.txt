@@ -1,0 +1,11 @@
+# pip install command for env
+/Users/abhi/anaconda3/envs/opencv/bin/pip install module_name
+
+# python run in env
+python3 file_name.py
+
+# wattpad source
+https://www.wattpad.com/stories/first-person
+
+# deeplearning primer
+https://www.deeplearningbook.org/
